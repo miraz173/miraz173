@@ -1,5 +1,5 @@
 - 👋 Hi, I’m *Mohammod Moshiur Rahman*
-- 👀 I'm a beginner. Everything seems interesting.
+- 👀 A beginner. Everything seems interesting.
 - 🌱 I've basic knowledge in C and currently learning C++.
 - 📫 You may mail me [here](miraz173r@gmail.com).
 <!--- 💞️ I’m looking to collaborate on ...-->
