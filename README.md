@@ -1,6 +1,6 @@
 - 👋 I’m *Mohammod Moshiur Rahman*
-- 👀 A beginner. Everything seems interesting.
-- 🌱 I've basic knowledge in C, C++, javascript, python, CSS, HTML and currently learning nodeJS, reactJS.
+- 👀 A Student. Everything seems interesting.
+- 🌱 I've adequate knowledge in C, C++, python, javascript, CSS, HTML, reactJS, mySQL and currently learning nodeJS.
 - 📫 You may mail me [here](miraz173r@gmail.com).
 <!--- 💞️ I’m looking to collaborate on ...-->
 <!---
